@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="initialize_particles" type="square_move" name="square_move" output ="screen"> </node>
+
+</launch>

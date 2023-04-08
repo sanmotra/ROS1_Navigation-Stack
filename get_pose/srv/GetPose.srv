@@ -1,0 +1,3 @@
+# Get current robot pose service
+---
+geometry_msgs/Pose pose    # Current robot pose

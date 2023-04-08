@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="get_pose" type="get_pose_service" name="get_pose_service"> </node>
+
+</launch>
