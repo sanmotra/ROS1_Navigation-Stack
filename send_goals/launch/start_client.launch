@@ -1,0 +1,5 @@
+<launch>
+
+    <node pkg="send_goals" type="send_goal_client" name="send_goal_client"> </node>
+
+</launch>
